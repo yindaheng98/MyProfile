@@ -154,7 +154,7 @@
       "参与人数": 4,
       "代码行数": "1068",
       "Github页面": "https://github.com/yindaheng98/ParkingMoney",
-      "部署页面": "yindaheng98.top:3001",
+      "部署页面": "parking-money.yindaheng98.top:30000",
       "详情": {
         "ppt": "details/ParkingMoney/ppt.pdf",
         "text": "details/ParkingMoney/text.html",
@@ -180,25 +180,11 @@
       "参与人数": 9,
       "代码行数": ">8000",
       "Github页面": null,
-      "部署页面": "/ExpertField",
+      "部署页面": "expert-field.yindaheng98.top:30000",
       "详情": {
         "ppt": "details/ExpertField/ppt.pdf",
         "text": "details/ExpertField/text.html"
       }
-    },
-    {
-      "时间": "2019.3~2019.4",
-      "项目名称": "MultiBird",
-      "项目内容": "一个基于Docker的LAMP+Jetty服务器镜像",
-      "指导老师": null,
-      "相关工具": [
-        "Dockerfile",
-        "Ubuntu Server"
-      ],
-      "参与人数": 1,
-      "代码行数": "<200",
-      "Github页面": "https://github.com/yindaheng98/MultiBird",
-      "部署页面": null
     },
     {
       "时间": "2019.1~2019.3",
