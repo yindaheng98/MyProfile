@@ -180,7 +180,7 @@
       "参与人数": 9,
       "代码行数": ">8000",
       "Github页面": null,
-      "部署页面": "https://expert-field.yindaheng98.top",
+      "部署页面": "https://expert-field.yindaheng98.top/index.html",
       "详情": {
         "ppt": "details/ExpertField/ppt.pdf",
         "text": "details/ExpertField/text.html"
@@ -297,7 +297,7 @@
       "参与人数": 1,
       "代码行数": "1325",
       "Github页面": "https://github.com/yindaheng98/FarmstayInfoSys",
-      "部署页面": "https://php.yindaheng98.top/FarmstayInfoSys",
+      "部署页面": "https://php.yindaheng98.top/FarmstayInfoSys/index.html",
       "详情": {
         "ppt": "details/FarmstayInfoSys/农家乐.pdf"
       }
