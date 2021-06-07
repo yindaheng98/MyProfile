@@ -154,7 +154,7 @@
       "参与人数": 4,
       "代码行数": "1068",
       "Github页面": "https://github.com/yindaheng98/ParkingMoney",
-      "部署页面": "parking-money.yindaheng98.top:30000",
+      "部署页面": "https://parking-money.yindaheng98.top",
       "详情": {
         "ppt": "details/ParkingMoney/ppt.pdf",
         "text": "details/ParkingMoney/text.html",
@@ -180,7 +180,7 @@
       "参与人数": 9,
       "代码行数": ">8000",
       "Github页面": null,
-      "部署页面": "expert-field.yindaheng98.top:30000",
+      "部署页面": "https://expert-field.yindaheng98.top",
       "详情": {
         "ppt": "details/ExpertField/ppt.pdf",
         "text": "details/ExpertField/text.html"
@@ -204,7 +204,7 @@
       "参与人数": 5,
       "代码行数": "3883",
       "Github页面": "https://github.com/yindaheng98/WebSiteAnalysisKit",
-      "部署页面": "http://jetty.yindaheng98.top:30000/WebSiteAnalysisKit",
+      "部署页面": "https://jetty.yindaheng98.top/WebSiteAnalysisKit",
       "详情": {
         "text": "details/WebSiteAnalysisKit/text.html",
         "ppt": "details/WebSiteAnalysisKit/项目简介ppt.pdf",
@@ -226,7 +226,7 @@
       "参与人数": 1,
       "代码行数": "685",
       "Github页面": "https://github.com/yindaheng98/Three-effect-reaction-Simulator",
-      "部署页面": "http://jetty.yindaheng98.top:30000/HelloJWeb",
+      "部署页面": "https://jetty.yindaheng98.top/HelloJWeb",
       "详情": {
         "pdf": "details/Three-effect-reaction-Simulator/Java课程报告-1030616134-尹达恒.pdf"
       }
@@ -248,7 +248,7 @@
       "参与人数": 3,
       "代码行数": "1577",
       "Github页面": "https://github.com/yindaheng98/iQRGenuine",
-      "部署页面": "http://jetty.yindaheng98.top:30000/iQRGenuine/Scan.html",
+      "部署页面": "https://jetty.yindaheng98.top/iQRGenuine/Scan.html",
       "详情": {
         "ppt": "details/iQRGenuine/IS.pdf"
       }
@@ -297,7 +297,7 @@
       "参与人数": 1,
       "代码行数": "1325",
       "Github页面": "https://github.com/yindaheng98/FarmstayInfoSys",
-      "部署页面": "http://php.yindaheng98.top:30000/FarmstayInfoSys",
+      "部署页面": "https://php.yindaheng98.top/FarmstayInfoSys",
       "详情": {
         "ppt": "details/FarmstayInfoSys/农家乐.pdf"
       }
@@ -319,7 +319,7 @@
       "参与人数": 5,
       "代码行数": "3911",
       "Github页面": null,
-      "部署页面": "http://php.yindaheng98.top:30000/TheCalendars/login.html",
+      "部署页面": "https://php.yindaheng98.top/TheCalendars/login.html",
       "详情": {
         "ppt": "details/Calendars/TheCalendars.pdf"
       }
